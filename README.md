@@ -1,4 +1,4 @@
-Have a look at the AbstractWindowGraphicsEngine Repository for more details  
+Have a look at the AWTSimplification Repository for more details  
 
 This is a example on how to use this library  
 
